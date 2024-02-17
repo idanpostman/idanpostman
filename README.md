@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kish-git&label=Profile%20views&color=0e75b6&style=flat" alt="idanpostman" /> </p>
 <h1 align="center">Hi 👋, I'm Wildan Fauzan</h1>
-<h3 align="center">Undergraduate Informatics Engineering student at Pasundan University</h3>
+<h3 align="center">Undergraduate Informatics Engineering student at Pasundan University | Cloud Computing Cohort at Bangkit Academy 2024</h3>
 
 <h3 align="left">Let's Connect! </h3>
 <p align="left">
