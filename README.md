@@ -7,7 +7,12 @@
 <a href="https://linkedin.com/in/wildanfauzann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishor-raut" height="30" width="40" /></a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idanpostman&show_icons=true&locale=en" alt="idanpostman" /></p>
+<p align="left">
+<a href="https://github.com/idanpostman">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=idanpostman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=idanpostman&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **idanpostman/idanpostman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
