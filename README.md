@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kish-git&label=Profile%20views&color=0e75b6&style=flat" alt="idanpostman" /> </p>
 <h1 align="center">Hi 👋, I'm Wildan Fauzan</h1>
-<h3 align="center">As a recent graduate specializing in Software Development, I have hands-on experience in building and deploying web applications. I am proficient in both back-end and front-end development using JavaScript, Node.js, Express.js, PHP, and Laravel, with experience in database management using MySQL. Additionally, I possess skills in cloud computing with Google Cloud Platform. Skilled in REST API development, Agile/Scrum practices, and software testing & debugging, I am eager to apply my skills and knowledge to innovative projects.</h3>
+<h3 align="justify">As a recent graduate specializing in Software Development, I have hands-on experience in building and deploying web applications. I am proficient in both back-end and front-end development using JavaScript, Node.js, Express.js, PHP, and Laravel, with experience in database management using MySQL. Additionally, I possess skills in cloud computing with Google Cloud Platform. Skilled in REST API development, Agile/Scrum practices, and software testing & debugging, I am eager to apply my skills and knowledge to innovative projects.</h3>
 
 <h3 align="left">Let's Connect! </h3>
 <p align="left">
